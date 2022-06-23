@@ -1,0 +1,35 @@
+body {
+    background-color: lightblue;
+}
+
+.font-size {
+    color: black;
+    font-size: 70px;
+}
+
+.box-n {
+    background: black;
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-size: 30px;
+    align-items: center;
+    width: 150px;
+    margin: 10px;
+    height: 150px;
+}
+
+.box-f {
+    background-color: lightskyblue;
+    color: white;
+}
+
+.box-b {
+    background-color: blue;
+    color: white;
+}
+
+.box-f-b {
+    background-color: gold;
+    color: white;
+}
