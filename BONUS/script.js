@@ -17,7 +17,7 @@ for (let index = 1; index <= 100; index++) {
 
         console.log('f-b');
 
-        boxN.classList.add('box-n', 'box-fb');
+        boxN.classList.add('box-n', 'box-f-b');
 
         boxN.innerText = 'fb';
 
