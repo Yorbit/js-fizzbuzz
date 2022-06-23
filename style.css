@@ -8,7 +8,7 @@ body {
 }
 
 .box-n {
-    background: lightskyblue;
+    background: black;
     display: flex;
     justify-content: center;
     color: white;
